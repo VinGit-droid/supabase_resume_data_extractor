@@ -27,7 +27,8 @@ HUGGINGFACE_API_KEY=your_huggingface_key
 
 ### Install Dependencies
 -bash
-pip install -r requirements,txt
+
+pip install -r requirements.txt
 
 ### Run Server
 
