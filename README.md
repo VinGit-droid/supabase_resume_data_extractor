@@ -36,10 +36,10 @@ uvicorn app.main:app --reload
 ### 📸 Screenshots
 
 Uploading a resume
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](endpoints.png)
-![alt text](upload_browser.png)
-![alt text](supabase_resumes_storage.png)
-![alt text](resume_metadata_supabase.png)
+![alt text](image-1.jpg)
+![alt text](image-2.jpg)
+![alt text](endpoints.jpg)
+![alt text](upload_browser.jpg)
+![alt text](supabase_resumes_storage.jpg)
+![alt text](resume_metadata_supabase.jpg)
 Q&A response
