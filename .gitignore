@@ -1,0 +1,56 @@
+# 🐍 Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.env
+.env
+.env.*
+
+# 📦 Virtual Environment
+.venv/
+venv/
+# 📁 IDEs and Editors
+.vscode/
+.idea/
+*.swp
+
+# 📄 Logs and Temp Files
+*.log
+*.sqlite3
+*.db
+*.bak
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 📂 OS-specific
+ehthumbs.db
+desktop.ini
+
+# 📦 Dependency folders
+node_modules/
+
+# 📤 Uploads and Cache
+temp/
+uploads/
+.cache/
+
+# 📸 Screenshots or media
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+
+# 🧪 Test artifacts
+coverage/
+htmlcov/
+.tox/
+.pytest_cache/
+
+# 🚀 Build and dist
+build/
+dist/
+*.egg-info/
