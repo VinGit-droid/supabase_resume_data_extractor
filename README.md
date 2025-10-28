@@ -36,7 +36,7 @@ uvicorn app.main:app --reload
 ### 📸 Screenshots
 
 Uploading a resume
-![alt text](image-1.jpg)
+![test image](image-1.png)
 ![alt text](image-2.jpg)
 ![alt text](endpoints.jpg)
 ![alt text](upload_browser.jpg)
